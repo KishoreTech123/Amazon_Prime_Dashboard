@@ -1,10 +1,72 @@
-# Amazon_Prime_Dashboard
-This project presents an interactive data visualization dashboard for analyzing Amazon Prime Video content.
+# 🎬 Amazon Prime Video Dashboard
 
-## 📈 Key Features
-- Clean and interactive visualizations
-- Genre and rating analysis
-- Country-wise content distribution map
-- Time-series analysis of releases
-- Movie vs TV show breakdown
+## 1. Project Title / Headline
+Amazon Prime Analytics: Movies & TV Shows Insights Dashboard
 
+A dynamic, interactive data visualization dashboard built to analyze Amazon Prime Video content — focusing on ratings, genres, release trends, and global distribution.
+
+---
+
+## 2. Short Description / Purpose
+This dashboard provides a comprehensive analysis of Amazon Prime Video data, helping users explore content trends across genres, ratings, countries, and time.
+
+It is designed for data analysts, content researchers, and streaming enthusiasts to understand viewing patterns and content distribution.
+
+---
+
+## 3. Tech Stack
+The dashboard was created using the following tools and technologies:
+
+- 📊 Power BI – For building interactive visualizations and reports  
+- 🔄 Power Query – For data cleaning and transformation  
+- 🧮 DAX (Data Analysis Expressions) – For calculated measures and logic  
+- 📁 Dataset – Amazon Prime movies & TV shows dataset  
+
+---
+
+## 4. Key Metrics
+- Total Titles: 9,687  
+- Total Ratings Categories: 25  
+- Total Genres: 519  
+- Total Directors: 6,000+  
+- Data Timeline: 1920 – 2021  
+
+---
+
+## 5. Dashboard Features / Insights
+
+### 📌 Content by Rating
+- Highest content belongs to "13+" and "16+" categories  
+- Wide distribution across different audience ratings  
+
+### 🎭 Genres Distribution
+- Drama dominates with the highest number of shows  
+- Comedy and Suspense are also popular categories  
+
+### 🌍 Global Distribution
+- Content is widely distributed across countries like:
+  - United States  
+  - India  
+  - United Kingdom  
+  - Canada  
+
+### 🎥 Movies vs TV Shows
+- Movies: ~80% (majority)  
+- TV Shows: ~20%  
+
+### 📅 Release Trends
+- Significant growth in content after the year 2000  
+- Rapid increase in recent years indicating platform expansion  
+
+---
+
+## 6. Use Cases
+- Analyze streaming platform content trends  
+- Understand audience rating distributions  
+- Study global content production patterns  
+- Explore growth of OTT platforms over time  
+
+---
+
+## 🚀 Conclusion
+This dashboard provides valuable insights into Amazon Prime Video’s content library, helping users understand trends in entertainment data through interactive and visually engaging analytics.
