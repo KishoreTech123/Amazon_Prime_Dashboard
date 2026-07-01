@@ -68,5 +68,8 @@ The dashboard was created using the following tools and technologies:
 
 ---
 
+##7. Screenshots/Demos
+Dashboard Preview : https://github.com/KishoreTech123/Amazon_Prime_Dashboard/blob/main/Snapshot%20of%20Amazon_Prime_Dashboard.png
+
 ## 🚀 Conclusion
 This dashboard provides valuable insights into Amazon Prime Video’s content library, helping users understand trends in entertainment data through interactive and visually engaging analytics.
